@@ -10,7 +10,7 @@ A. V. Sachitt  |  17  |  Pre-college
 IIITDM Chennai (Smart Manufacturing) + IIT Madras (Data Science)
 ```
 
-<img src="./pixel-me.gif" width="620" alt="Pixelated reveal of the author">
+
 
 [![Website](https://img.shields.io/badge/Website-codaos.qzz.io-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codaos.qzz.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachitt-a-v-604224414/)
