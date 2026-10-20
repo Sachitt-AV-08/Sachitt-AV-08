@@ -6,8 +6,8 @@
 
 ```
 > whoami
-A. V. Sachitt  |  17  |  Pre-college
-IIITDM Chennai (Smart Manufacturing) + IIT Madras (Data Science)
+A. V. Sachitt  |  17  |  1st year college
+IIITDM Chennai (Smart Manufacturing) + IIT Madras (Management and Data Science)
 ```
 
 
